@@ -4,10 +4,6 @@ import sklearn
 from sklearn.cluster import KMeans
 
 
-# business_URL= "/home/cate/Cate/recommender_system/business_final.csv"
-# def load_data(url):
-#     data = pd.read_csv(url)
-#     return data
 
 
 # Creating Location-Based Recommendation Function
