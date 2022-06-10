@@ -7,7 +7,6 @@
 from google.colab import drive
 drive.mount('/content/drive')
 
-"""install the below packages if you're running this notebook for the first time"""
 
 !pip install stylecloud
 !pip install plotly_express
